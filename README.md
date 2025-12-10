@@ -1,3 +1,3 @@
 READ ME 
 
-This is supposed to only really be used if you want your Replicated Storage not to be spammed with remote events and to make it look cleanier. This isn't supposed to replace Remote Events you can find that at Network Libaries, if you do use this then have fun and keep on programming!!!
+This is supposed to only really be used if you want your Replicated Storage not to be spammed with remote events and to make it look cleanier. This isn't supposed to replace Remote Events you can find that at Network Libaries, if you do use this then have fun and keep on programming!!! -- THIS USES THE OOP STRUCTURE --
